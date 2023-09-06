@@ -1,0 +1,28 @@
+Preamble
+In August 2023, I responded to a Business Analyst (Jr.) bug. I was asked to be tested through a Telegram bot. After passing this test, I decided to spend this date in the Business Analyst test. You will analyze the data and answer several questions:
+
+1) How much did the seller earn on new products in 2020?
+2) Find the product with the biggest increase in 2020 compared to 2019.
+3) Conduct an ABC analysis and calculate the number of goods in group A for 2 years.
+4) Analyze customer revenue growth in 2020.
+5) Conduct an RFM analysis.
+6) Check the seller's income by month. Is there seasonality?
+7) Conduct an analysis of what influenced the increase in the income of the seller.
+
+Explanation:
+1) Novelties - products whose codes are available only in 2020.
+2) Gain - the difference between the new and old value.
+3) ABC analysis is based on the empirical Pareto law:
+• A - 20% of efforts (assortment) give 80% of the result (sales)
+• B - 30% of efforts (assortment) give 15% of results (sales)
+• C - 50% of efforts (assortment) give 5% of results (sales)
+You need to divide the goods by the amount of sales.
+4) Gain - the difference between the new and old value.
+5) What is RFM analysis and why do it? RFM analysis is an analysis method that allows you to segment customers by the frequency and amount of purchases and identify those customers who bring more money.
+• Recency — prescription (how long ago your users bought something from you);
+• Frequency — frequency (how often they buy from you);
+• Monetary - money (the total amount of purchases).
+6) Calculate the amount of deliveries for each month and each year.
+7) Calculate how many deliveries the seller made each month and for what amount.
+
+You can use my analysis as an example.
